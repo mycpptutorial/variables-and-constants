@@ -41,4 +41,6 @@ int main() {
 
   std::cout << "The value of local varable 'total' that is the result of add(45, 34), is: ";
   std::cout << total << std::endl;
+
+  return 0;
 }
